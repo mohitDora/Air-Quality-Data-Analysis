@@ -10,7 +10,7 @@ Urban pollution is a growing concern, negatively impacting public health and the
 
 ## **Screenshots**
 
-![App Screenshot](https://i.pinimg.com/736x/de/8b/f2/de8bf2fcf243064712bc7c6a0df25cd6.jpg)
+![App Screenshot]([https://i.pinimg.com/736x/de/8b/f2/de8bf2fcf243064712bc7c6a0df25cd6.jpg](https://i.pinimg.com/originals/de/8b/f2/de8bf2fcf243064712bc7c6a0df25cd6.jpg))
 
 [Dashboard Link](https://app.powerbi.com/links/uS6V_9Dxwu?ctid=fa4de225-54ff-4076-8031-e2814c9c8f54&pbi_source=linkShare)
 
